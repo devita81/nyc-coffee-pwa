@@ -1,3 +1,4 @@
+<!-- Teste de auto-deploy via Netlify -->
 # NYC Coffee + Hotel Explorer — PWA
 
 Aplicação web progressiva (PWA) para explorar cafeterias, bakeries e hotéis em Manhattan e Brooklyn.
